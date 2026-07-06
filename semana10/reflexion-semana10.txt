@@ -1,0 +1,10 @@
+Las metodologías ágiles ayudan a organizar el trabajo de manera clara y por prioridades,
+permitiendo avanzar paso a paso en cada actividad. La automatización reduce tareas repetitivas 
+y agiliza la comunicación entre los miembros de la comunidad. Herramientas como Telegram permiten
+enviar notificaciones inmediatas sobre nuevos reportes o actividades, facilitando una respuesta
+más rápida. Además, estos procesos mejoran la coordinación y el seguimiento de las acciones 
+realizadas. Al trabajar con un backlog y definir tareas concretas, el equipo tiene mayor claridad 
+sobre sus objetivos. También se fortalece la participación ciudadana, ya que las personas
+pueden reportar situaciones y conocer el estado de sus solicitudes. En conjunto, estas herramientas 
+hacen que la gestión sea más eficiente, transparente y organizada, beneficiando tanto a la comunidad como 
+a quienes lideran los procesos de participación.
